@@ -28,17 +28,17 @@ This project automates the attendance tracking process using real-time face reco
 * **Web Framework:** Flask
 * **Data Handling:** Pandas
 
-## 🚀 วิธีการติดตั้งและใช้งาน (Installation)
+## 🚀(Installation)
 
-1. **Clone โปรเจค**
+1. **Clone project**
    ```bash
    git clone [https://github.com/Wuttikorn777/Face-Recognition-Attendance.git](https://github.com/Wuttikorn777/Face-Recognition-Attendance.git)
 
-2. **ติดตั้ง Library ที่จำเป็น**
+2. **install Library **
    ```bash
     pip install -r requirements.txt
 
-3. **รันโปรแกรม**
+3. **RUN**
     ```bash
     python app.py
     ระบบจะเปิดเว็บที่ URL: http://127.0.0.1:5000
